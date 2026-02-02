@@ -1,4 +1,4 @@
-Repository ini digunakan untuk menyimpan data dan kode penelitian skripsi.
+Repository ini digunakan untuk menyimpan data dan code untuk skripsi.
 
 ## Struktur Folder
 data        : dataset penelitian
