@@ -1,0 +1,283 @@
+NO,Nama jamu,Khasiat,jumlah_kata
+1,Galian Rapat Wangi,"['kurang', 'bau', 'badan', 'kurang', 'bau', 'sedap', 'rapet', 'keset', 'area', 'wanita']",10
+2,Empot-empot legit,"['kurang', 'lendir', 'lebih', 'atas', 'putih', 'timbul', 'sensasi', 'denyut', 'hubung']",9
+3,galian singset,"['kurang', 'lemak', 'tubuh', 'tambah', 'nafsu', 'makan', 'lancar', 'bab']",8
+4,jamu kecantikan,"['awat', 'khusus', 'remaja', 'putri', 'kurang', 'bau', 'badan', 'atas', 'putih']",9
+5,jamu galian montok,"['tambah', 'nafsu', 'makan']",3
+6,jamu terlambat bulan (lancar darah),"['kurang', 'nyeri', 'haid', 'lancar', 'edar', 'darah', 'atur']",7
+7,jamu melancarkan asi (pejje),"['lancar', 'keluar', 'asi']",3
+8,serbuk wasiat dan butiran delima,"['atas', 'putih', 'lendir', 'lebih', 'area', 'wanita']",6
+9,parfum rempah,"['segar', 'bau', 'badan', 'aroma', 'khas', 'rempah', 'khas']",7
+10,cebokan rempah,"['atas', 'putih', 'gatal', 'akibat', 'bakteri', 'jamur']",6
+11,pancuran nikmat,"['antiseptik', 'wanita', 'bilas']",3
+12,sabun kesed,"['sabun', 'khusus', 'wanita', 'atas', 'putih']",5
+13,v-spa rempah,"['detoksifikasi', 'wanita', 'bebas', 'putih', 'bau', 'sedap']",6
+14,jamu bersalin,"['awat', 'khusus', 'pasca', 'lahir', 'kembali', 'tubuh', 'lancar', 'asi', 'cegah', 'timbul', 'varises']",11
+15,paket perawatan pranikah,"['kurang', 'bau', 'badan', 'kulit', 'bersih', 'cerah']",6
+16,1 paket ramuan khusus wanita,"['awat', 'khusus', 'wanita', 'jaga', 'tubuh', 'prima', 'hubung', 'suami', 'istri', 'mesra']",10
+17,jamu penyubur kandungan,"['subur', 'kandung']",2
+18,cemceman rambut,"['atas', 'ketombe', 'rontok', 'rambut']",4
+19,minyak bulus,"['encang', 'kulit', 'area', 'khusus', 'intim', 'pria', 'wanita', 'pasutri']",8
+20,minyak zaitun,"['rawat', 'encang', 'halus', 'kulit', 'muka', 'tubuh']",6
+21,lulur rempah,"['kulit', 'bersih', 'cerah']",3
+22,bedak dingin,"['masker', 'bengkoang', 'cerah', 'wajah', 'pudar', 'bekas', 'jerawat', 'kecil', 'pori']",9
+23,pegal linu,"['kurang', 'capek', 'nyeri', 'sendi', 'lancar', 'edar', 'darah']",7
+24,jamu pembersih darah,"['atas', 'gatal', 'gatal', 'alergi', 'kulit']",5
+25,jamu kencing manis,"['turun', 'kadar', 'gula', 'darah']",4
+26,bumbu minuman pokak,"['minum', 'herbal', 'bahan', 'jahe', 'emprit']",5
+27,1 paket jamu suami istri,"['harmonis', 'hubung', 'intim', 'suami', 'istri']",5
+28,Jamu ma'jun super (plus madu),"['tambah', 'stamina', 'hubung', 'tambah', 'otot', 'lancar', 'edar', 'darah']",8
+29,jamu jantan super,"['jaga', 'stamina', 'tubuh', 'fit', 'hubung']",5
+30,jamu aktivitas,"['tambah', 'stamina', 'khusus', 'kerja', 'berat', 'suplemen', 'khusus', 'tambah', 'stamina', 'pria', 'hubung']",11
+31,jamu darah tinggi,"['turun', 'tekan', 'darah']",3
+32,1 paket ramuan khusus pria,"['suplemen', 'kuat', 'khusus', 'pria', 'jaga', 'stamina', 'sehat', 'tubuh']",8
+33,Jamu Tradisional Madura,"['sehat', 'bau', 'badan', 'putih']",4
+34,Bom,"['kuat', 'hubung', 'pegal', 'pegal']",4
+35,Jamu Hitam,['sakit'],1
+36,Jamu Pelintiran darah tinggi,"['turun', 'tekan', 'darah', 'menetralisir', 'sirkulasi', 'jantung', 'normal', 'jantung']",8
+37,Empot-empot Super,"['pulih', 'elastisitas', 'organ', 'intim', 'wanita', 'encang', 'otot', 'miss', 'v', 'encang', 'payudara', 'encang', 'kulit', 'shg', 'muda', 'tambah', 'gairah', 'semangat', 'hubung', 'suami', 'istri', 'hilang', 'gatal', 'miss', 'v']",25
+38,Jamu selokarang,"['turun', 'pusing', 'panas', 'sakit', 'gigi', 'tenggorok']",6
+39,Jamu Bengkes,"['awet', 'muda', 'wajah', 'seri']",4
+40,Empot Ayam Super,"['legit', 'halus', 'vagina', 'encang', 'otot', 'kendur', 'lahir', 'hilang', 'bau', 'gatal', 'atas', 'kb', 'wanita', 'frigid', 'suami', 'istri', 'harmonis']",17
+41,Jamu Delima Putih,"['atas', 'putih', 'pektay']",3
+42,Sariawan Sekalor,"['sembuh', 'radang', 'gusi', 'radang', 'tenggorok', 'sakit', 'gigi', 'sakit', 'kepala', 'amandel', 'ambeien', 'demam', 'kolesterol', 'mendetox', 'darah']",15
+43,Galian Singset ( Susut Perut),"['langsing', 'badan', 'kecil', 'encang', 'perut', 'kendur', 'madat', 'tubuhmelancarkan', 'bab', 'wajah', 'segar', 'mudah', 'keriput', 'hilang', 'selulit']",15
+44,Sehat Laki-laki Perkasa,"['tambah', 'stamina', 'tambah', 'hormon', 'hilang', 'capek', 'jaga', 'tubuh', 'perkasa', 'mudah', 'masuk', 'angin', 'kental', 'sperma', 'cegah', 'ejakulasi']",16
+45,Sari Rapet Empot-Empot,"['harum', 'wanita', 'sembuh', 'putih', 'gatal', 'sebab', 'bakteri', 'rapat', 'vagina', 'encang', 'otot', 'rahim', 'tambah', 'harmonis', 'rumah', 'tangga']",16
+46,Pluntur(Pelancar Darah),"['lancar', 'darah', 'hilang', 'pegal', 'linu', 'jaga', 'stamina', 'tubuh', 'kurang', 'angka', 'lahir']",11
+47,Strong,"['tambah', 'stamina', 'tubuh', 'hilang', 'capek', 'jaga', 'tubuh', 'perkasa', 'kental', 'sperma', 'cegah', 'ejakulasi', 'tahan']",13
+48,Seger Montok,"['encang', 'montok', 'payudara', 'madat', 'tubuh', 'cerah', 'wajah', 'nafsu', 'makan', 'sehat', 'badan']",11
+49,Rapet Wangi Spesial,"['harum', 'wanita', 'sembuh', 'putih', 'gatal', 'sebab', 'bakteri', 'rapat', 'vagina', 'encang', 'otot', 'rahim', 'tambah', 'harmonis', 'rumah', 'tangga']",16
+50,Tolak Angin,"['sembuh', 'demam', 'pusing', 'perut', 'mual', 'kembung', 'tenggorok', 'kering', 'tambah', 'daya', 'tahan', 'tubuh']",12
+51,Subur Kandungan,"['bantu', 'sehat', 'subur', 'kuat', 'kandung', 'jamu', 'ibuibu', 'gugur', 'sulit', 'hamil']",10
+52,Sehat Wanita,"['madat', 'tubuh', 'encang', 'payudara', 'kendur', 'hilang', 'bau', 'badan', 'segar', 'tubuh', 'hilang', 'letih', 'lesu', 'capek', 'encang', 'otot', 'wanita', 'wanita', 'habis', 'lahir', 'bersih', 'darah', 'nifas', 'merapatkankan', 'wanita', 'aman', 'konsumsi', 'remaja', 'perempuan', 'saran', 'konsumsi', 'hamil']",32
+53,Sehat Laki-laki ( Helbeh),"['atas', 'lemah', 'syahwat', 'baik', 'kualitas', 'sperma', 'tambah', 'tingkat', 'stamina', 'pria', 'wanita']",11
+54,Natural Lulur Sari temugiring,"['halus', 'cerah', 'kulit', 'melembabkan', 'hilang', 'bekas', 'noda', 'tubuh']",8
+55,Empot Sari Rapet,"['kembali', 'perawan', 'tambah', 'harmonis', 'rumah', 'tangga', 'madat', 'tubuh', 'badan', 'segar']",10
+56,Awet Muda,"['bantu', 'pelihara', 'cantik']",3
+57,Ma'jun,"['sembuh', 'sakit', 'pinggang', 'pegal', 'linu', 'encok', 'rematik', 'hilang', 'lelah', 'tambah', 'stamina', 'syahwat']",12
+58,Sale Karang,"['sakit', 'gigi', 'gusi', 'bengkak', 'gusi', 'darah']",6
+59,Ibu Hamil,"['biar', 'mudah', 'capek']",3
+60,Diabet,"['stabil', 'kadar', 'gula']",3
+61,Nafsu Makan,"['tambah', 'nafsu', 'makan']",3
+62,Sehat Pria,"['tambah', 'tenaga', 'lelaki', 'hubung', 'intim']",5
+63,Sehat Wanita,"['tambah', 'stamina', 'perempuan', 'jaga', 'organ', 'wanita']",6
+64,Nafsu Makan,"['tambah', 'nafsu', 'makan']",3
+65,Gatal-gatal,"['sembuh', 'gatal', 'gatal', 'alergi']",4
+66,Ibu Melahirkan,"['lancar', 'asi']",2
+67,Jamu Sakit Pinggang,"['reda', 'nyeri', 'pinggang', 'tambah', 'stamina']",5
+68,Jaselang,"['tambah', 'stamina', 'pegal', 'linu', 'capek', 'capek', 'hangat', 'badan']",8
+69,Macho,"['tambah', 'stamina', 'pria', 'ereksi', 'tingkat', 'libido', 'obat', 'pegal', 'linu', 'capek', 'capek', 'hangat', 'badan']",13
+70,Kusir,"['hilang', 'bau', 'badan', 'sakit', 'kepala']",5
+71,Sarpet Manjakani,"['cegah', 'putih', 'hilang', 'bau', 'badan', 'rapat', 'vagina']",7
+72,Jamu Sondhep,"['reda', 'nyeri', 'otot', 'bahu', 'otot', 'pinggang', 'lancar', 'edar', 'darah']",9
+73,Sale Karang,"['sakit', 'gigi', 'gusi', 'bengkak', 'gusi', 'darah']",6
+74,Daun sirih,"['hilang', 'bau', 'badan', 'obat', 'sariawan', 'hilang', 'bulut', 'cegah', 'keropos', 'gigi', 'tulang']",11
+75,Kuda Hitam,"['tingkat', 'kuat', 'pria', 'hubung']",4
+76,Jahe Merah Plus,"['tambah', 'stamina', 'tubuh', 'pria', 'wanita', 'hubung']",6
+77,ekstrak jahe,"['obat', 'gejala', 'masuk', 'angin']",4
+78,ekstrak temulawak,"['obat', 'sakit', 'asam', 'lambung', 'tambah', 'nafsu', 'makan']",7
+79,ektrak kunyit,"['obat', 'sakit', 'asam', 'lambung']",4
+80,feminia,"['tingkat', 'kuat', 'pria']",3
+81,wedang jahe merah,"['tambah', 'stamina', 'tubuh']",3
+82,kunyit asam madu,"['rawat', 'sehat', 'lambung', 'obat', 'panas']",5
+83,manjakani,"['rawat', 'sehat', 'wanita', 'lancar', 'haid', 'putih']",6
+84,kuda hitam cair,"['tingkat', 'kuat', 'pria', 'hubung']",4
+85,ETABARI,"['derita', 'kencing', 'manis', 'diabetes']",4
+86,Subur Kandungan,"['subur', 'kandung', 'kuat', 'kandung', 'lemah']",5
+87,TOLAK AMBEYEN,"['sembuh', 'ambeien', 'jaga', 'sehat']",4
+88,TOLAK BATUK/ASMA,"['bantu', 'obat', 'batuk', 'bantu', 'obat', 'sakit', 'alergi', 'nafas', 'sakit', 'asma', 'bantu', 'turun', 'panas', 'demam', 'sebab', 'flu', 'radang', 'tenggorok']",18
+89,Susut perut Tresna,"['bantu', 'kurang', 'lemak', 'tubuh', 'perut', 'bantu', 'turun', 'berat', 'badan']",9
+90,PANYAMAN EMPOT-EMPOT,"['bantu', 'rapat', 'organ', 'wanita', 'encang', 'otot', 'otot', 'rahim', 'vagina', 'keset', 'sensitif', 'bantu', 'wanita', 'cepat', 'capai', 'orgasme', 'getarangetaran', 'sentuh']",18
+91,masker v,"['bantu', 'wanita', 'atas', 'frigid', 'gairah', 'layan', 'pasang']",7
+92,LAMSAM,"['turun', 'normal', 'tekan', 'darah', 'hipertensi', 'lancar', 'edar', 'darah', 'tubuh']",9
+93,lulur wangi,"['bersih', 'atas', 'jerawat', 'angkat', 'komedo']",5
+94,PETODHU,"['sehat', 'tulang', 'pria', 'wanita']",4
+95,GALIAN PUTRI,"['jaga', 'tubuh', 'segar', 'sehat', 'lincah', 'pucat', 'atas', 'bau', 'ketiak', 'bau', 'badan', 'sedap', 'bantu', 'atas', 'sakit', 'putih', 'jaga', 'organ', 'wanita', 'pakai', 'bersih', 'noda', 'lancar', 'haid']",24
+96,GALIAN RAPET,"['bantu', 'rapat', 'organ', 'wanita', 'biar', 'kencang', 'jaga', 'harmonis', 'rumah', 'tangga', 'hilang', 'bau', 'sedap', 'bantu', 'atas', 'putih']",16
+97,lulur ayu,"['pelihara', 'cantik', 'wajah', 'anggota', 'badan', 'bersih', 'halus', 'kulit']",8
+98,PAS JUDHU,"['bantu', 'atas', 'asam', 'urat', 'kolesterol', 'rematik']",6
+99,SEHAT L.M,"['lancar', 'edar', 'darah', 'tambah', 'tenaga', 'tingkat', 'daya', 'tahan', 'tubuh', 'sakit', 'bantu', 'atas', 'gejala', 'tua', 'nyeri', 'otot', 'nyeri', 'sendi', 'pegal', 'pegal', 'rabun', 'mata', 'cegah', 'masuk', 'angin', 'pusing', 'maag']",27
+100,GALIAN RAPET,"['bantu', 'rapat', 'organ', 'wanita', 'jaga', 'harmonis', 'rumah', 'tangga', 'hilang', 'bau', 'sedap', 'bantu', 'atas', 'putih']",14
+101,cream montok,"['bantu', 'besar', 'payudara']",3
+102,GALIAN MONTOK,"['bantu', 'obat', 'buah', 'dada', 'montok', 'buah', 'dada', 'padat', 'isi']",9
+103,BERSIH JERAWAT,"['bantu', 'atas', 'bersih', 'jerawat', 'cegah', 'timbul', 'jerawat', 'pelihara', 'wajah', 'halus']",10
+104,AWET AYU,"['kandung', 'formula', 'anti', 'aging', 'guna', 'hambat', 'proses', 'tua', 'kurang', 'keriput', 'pudar', 'lingkar', 'hitam', 'mata', 'kurang', 'kantung', 'mata', 'bantu', 'atas', 'sakit', 'putih', 'hilang', 'bau', 'badan', 'rapat', 'vagina', 'jaga', 'organ', 'wanita', 'bersih', 'kurang', 'hilang', 'sakit', 'jelang', 'haid']",35
+105,PANYAMAN,"['atas', 'gairah', 'encang', 'otot', 'otot', 'rahim', 'vagina', 'keset', 'sensitif', 'bantu', 'wanita', 'cepat', 'capai', 'orgasme', 'getar', 'getar', 'sentuh']",17
+106,JAMU PERKASA,"['cegah', 'ejakulasi', 'tambah', 'daya', 'tahan', 'pria', 'tambah', 'tenaga', 'gairah', 'perkasa', 'pria', 'tambah', 'sehat', 'bugar']",14
+107,peluntur &pelangsing,"['kurang', 'lemak', 'tubuh', 'perut', 'gendut', 'encang', 'otot', 'otot', 'kendur', 'pelihara', 'tubuh', 'langsing', 'padat', 'ideal', 'alami']",15
+108,BEDAK SARI,"['harum', 'tubuh']",2
+109,HABBATUS SAUDA,"['jaga', 'stamina', 'kuat', 'daya', 'konsentrasi', 'anti', 'bakteri', 'atas', 'infeksi', 'hangat', 'lega', 'salur', 'nafas', 'ringan', 'gejala', 'batuk', 'pilek', 'turun', 'demam', 'bantu', 'cepat', 'sembuh', 'sakit', 'bantu', 'atas', 'maag', 'keluar', 'masuk', 'angin', 'kembung']",30
+110,SELEDRI MIX,"['atas', 'asam', 'urat']",3
+111,KUNYIT ASEM,"['tingkat', 'daya', 'tahan', 'tubuh', 'jaga', 'stamina', 'hilang', 'bau', 'badan', 'lancar', 'halus', 'kulit', 'cegah', 'tua', 'cegah', 'diare']",16
+112,TEMU LAWAK,"['atas', 'maag', 'atas', 'radang', 'sendi', 'hilang', 'bau', 'badan', 'atas', 'diare', 'atas', 'kolesterol', 'lancar', 'cerna', 'cegah', 'tua', 'anti', 'kanker', 'sehat', 'liver', 'ginjal']",21
+113,BERAS KENCUR,"['atas', 'batuk', 'pilek', 'reda', 'hidung', 'sumbat', 'tambah', 'nafsu', 'makan', 'atas', 'sakit', 'maag', 'tingkat', 'imun', 'tubuh']",15
+114,SIRIH PINANG,"['jaga', 'sehat', 'gigi', 'cegah', 'sariawan', 'hilang', 'bau', 'mulut', 'hilang', 'bau', 'badan', 'atas', 'putih', 'lancar', 'cerna', 'cegah', 'gusi', 'darah']",18
+115,POKA',"['atas', 'masuk', 'angin', 'mual', 'pusing', 'reda', 'nyeri', 'sendi', 'tingkat', 'imun', 'tubuh', 'cegah', 'tua', 'anti', 'kanker', 'cegah', 'kolesterol']",17
+116,BUNGA TELANG,"['sehat', 'mata', 'sehat', 'otak', 'halus', 'kulit', 'lancar', 'cerna', 'cegah', 'tua']",10
+117,jahe merah instant,"['obat', 'masuk', 'angin', 'pusingdan', 'mual']",5
+118,Empot wangi,"['bantu', 'kurang', 'lendir', 'daerah', 'wanita']",5
+119,Galian singset ++,"['kurang', 'lebih', 'lemak', 'kolesterol', 'tubuh', 'kecil', 'perut', 'jaga', 'bentuk', 'tubuh', 'ideal', 'jaga', 'tampil', 'awet', 'muda', 'bantu', 'kurang', 'lemak', 'tubuh', 'langsing', 'badan', 'tampil', 'seksi', 'percaya', 'normal', 'bab', 'lancar']",27
+120,asi booster,"['lancar', 'asi', 'segar', 'badan', 'muka', 'pucat', 'sehat', 'bayi', 'lahir', 'tuntas', 'sisa', 'darah', 'tingkat', 'kualitas', 'nutrisi', 'asi']",16
+121,gadis remaja,"['hilang', 'bau', 'badan', 'sedap', 'cegah', 'timbul', 'jerawat', 'sembuh', 'putih', 'jaga', 'bentuk', 'tubuh', 'ideal']",13
+122,empot-empot,"['tambah', 'mesra', 'harmonis', 'keluarga', 'muda', 'gadis', 'remaja', 'suami', 'sayang', 'istri', 'nikmat', 'puas', 'jelma']",13
+123,sehat lelaki,"['tambah', 'semangat', 'stamina', 'hubung', 'sehat', 'kuat', 'hangat', 'badan', 'pegal', 'linu', 'otot', 'kaku', 'lesu']",13
+124,rapet harum asmara,"['rapat', 'lentur', 'miss', 'v', 'atas', 'bau', 'sedap', 'gatal', 'gatal', 'sekitar', 'organ', 'intim', 'atas', 'cair', 'lebih', 'harum', 'area', 'vagina', 'jaga', 'harmonis', 'hubung', 'suami', 'istri', 'sembuh', 'putih', 'gejala']",26
+125,feminia,"['jaga', 'miss', 'v', 'keset', 'elastis', 'tambah', 'libido', 'hilang', 'bau', 'badan', 'miss', 'v', 'sedap', 'sembuh', 'putih', 'jaga', 'payudara', 'kenyal', 'montok', 'lindung', 'rahim', 'virus', 'normal', 'hormon', 'estrogen', 'hangat', 'badan', 'kurang', 'pegal', 'pegal', 'linu']",31
+126,awet muda,"['pulih', 'elastisitas', 'organ', 'intim', 'wanita', 'kencang', 'otot', 'miss', 'v', 'hilang', 'gatal', 'gatal', 'putih', 'bau', 'senang', 'cegah', 'tua', 'stabil', 'ph', 'asam', 'kurang', 'cair', 'basah', 'tingkat', 'hormon', 'estrogen', 'remaja', 'tubuh', 'lahir', 'haid', 'cegah', 'kanker', 'vagina', 'kanker', 'payudara']",35
+127,jakiat,"['baik', 'stamina', 'pria', 'tingkat', 'bugar', 'tubuh', 'hubung', 'pasutri', 'bantu', 'atas', 'ejakulasi', 'kental', 'sperma', 'tambah', 'jantan', 'pria']",16
+128,sirih wangi,"['hilang', 'bau', 'badan', 'mulut', 'sembuh', 'radang', 'tenggorok', 'gusi', 'atas', 'putih', 'sembuh', 'jerawat', 'halus', 'kulit', 'lancar', 'air', 'seni', 'tambah', 'tenaga', 'stamina', 'kurang', 'keringat', 'lebih', 'atas', 'sakit', 'kulit', 'gatal', 'gatal']",28
+129,Rapet Wangi,"['bantu', 'kurang', 'lendir', 'daerah', 'wanita']",5
+130,bersih darah,"['lancar', 'edar', 'darah', 'tubuh', 'bersih', 'darah', 'kotor', 'tubuh', 'atas', 'gatal', 'gatal', 'kulit', 'atas', 'ringan', 'bisul', 'obat', 'koreng', 'kulit', 'sembuh', 'cegah', 'jerawat']",21
+131,kencing manis,"['obat', 'kencing', 'manis', 'turun', 'kadar', 'gula', 'haus', 'kencing', 'malam']",9
+132,sari rapet,"['tambah', 'gairah', 'hubung', 'suami', 'istri', 'obat', 'putih', 'gejala', 'air', 'lendir', 'bau', 'rapat', 'otot', 'otot', 'vagina']",15
+133,delima putih,"['cegah', 'obat', 'putih', 'muka', 'pucat', 'gairah', 'sakit', 'pinggang', 'kurang', 'lendir', 'hilang', 'bau', 'keringat', 'sedap', 'rapat', 'vagina', 'pakai', 'atur', 'wajah', 'cahaya', 'cantik', 'awet', 'muda']",23
+134,empot-empot love,"['encang', 'organ', 'intim', 'rapet', 'encang', 'kulit', 'tambah', 'libido', 'atas', 'payudara', 'kendur', 'bersih', 'bakteri', 'jamur', 'putih', 'obat', 'kista', 'cegah', 'kanker', 'payudara', 'kuat', 'pinggang', 'lancar']",23
+135,manjakani,"['normal', 'hormon', 'estrogen', 'encang', 'wajah', 'kulit', 'encang', 'payudara', 'encang', 'otot', 'otot', 'wanita', 'rapet', 'cegah', 'osteoporosis', 'tulang', 'keropos', 'sembuh', 'putih', 'kuat', 'pinggang', 'lancar']",22
+136,gemuk sehat,"['tambah', 'nafsu', 'makan', 'hambat', 'tumbuh', 'sel', 'kanker', 'tingkat', 'daya', 'tahan', 'tubuh', 'jaga', 'sehat', 'liver', 'baik', 'jaring', 'tubuh', 'rusak', 'bantu', 'lawan', 'bakteri', 'jamur', 'tubuh', 'sembuh', 'sakit', 'kuning']",26
+137,oil mahabbah,"['payudara', 'kencang', 'montok', 'lahir', 'rawat', 'sehat', 'payudara', 'halus', 'kulit', 'payudara']",10
+138,bubuk herbal ajaib,"['rapat', 'encang', 'otot', 'vagina', 'ering', 'miss', 'v', 'basah', 'nikmat', 'bahagia', 'hubung', 'suami', 'istri']",13
+139,butiran putri delima,"['rapat', 'encang', 'otot', 'vagina', 'keset', 'kering', 'wanita', 'percaya', 'nikmat', 'bahagia', 'hubung', 'suami', 'istri']",13
+140,penyubur kandungan,"['kuat', 'rahim', 'tambah', 'hormon', 'subur', 'kandung']",6
+141,setanggi zahra,"['manfaat', 'aromatherapy', 'tenang', 'hati', 'tambah', 'intim', 'suami', 'istri']",8
+142,timung / mandi uap,"['lancar', 'edar', 'darah', 'keluar', 'keringat', 'lebih', 'bakar', 'lemak', 'harum', 'badan', 'badan', 'segar', 'harum', 'seri']",14
+143,hormolak,"['stabil', 'hormon', 'laki', 'laki', 'produksi', 'sperma', 'suplemen', 'tambah', 'produksi', 'sperma', 'maksimal', 'cepat', 'produksi', 'sperma', 'banyak', 'cair', 'sperma', 'hangat', 'badan', 'kurang', 'ejakulasi']",21
+144,lintah hitam papua,"['lancar', 'sirkulasi', 'darah', 'encang', 'otot', 'otot', 'kendur', 'tingkat', 'jantan', 'pria', 'obat', 'lemah', 'syahwat', 'ejakulasi', 'besar', 'panjang', 'penis']",17
+145,jamu gemuk sehat,"['bantu', 'baik', 'nafsu', 'makan', 'tambah', 'berat', 'badan', 'selaras', 'alatalat', 'cerna', 'tubuh', 'hilang', 'letih', 'lesu', 'lemah', 'semangat']",16
+146,jamu sepet madura *empot-empot),"['bantu', 'kurang', 'lendir', 'daerah', 'wanita', 'kuat', 'otot', 'otot', 'vagina', 'denyut', 'denyut', 'istimewa', 'vagina', 'keras', 'otot', 'vagina', 'hilang', 'putih', 'gatal', 'gatal']",20
+147,PLUNTUR(TERLAMBAT BULAN),"['efektif', 'wanita', 'lambat', 'atur', 'sakit', 'badan', 'anjur', 'lambat']",8
+148,Jamu Tradisional Madura,"['amandel', 'tekan', 'darah', 'asma', 'kencing', 'batu', 'liver', 'alergi', 'lemah', 'jantung', 'nafsu', 'makan', 'asam', 'urat', 'pegal', 'linu', 'kencing', 'manis', 'ginjal', 'rematik', 'sakit', 'gigi', 'maag', 'eksim', 'darah']",25
+149,Lulur Bengkoang,"['angkat', 'selsel', 'kulit', 'mati', 'hilang', 'jerawat', 'flek', 'hitam', 'mutih', 'kulit']",10
+150,pintu surga,"['manfaat', 'awat', 'wanita', 'tuntas', 'putih']",5
+151,jamu manjakani,"['rapat', 'vagina', 'bikin', 'keset', 'putih', 'sehat', 'badan']",7
+152,air cewok,"['bikin', 'keset', 'rapat', 'hilang', 'putih', 'hilang', 'bau', 'daerah', 'v']",9
+153,jamu melahirkan,"['bayi', 'sehat', 'bugar']",3
+154,sehat lelaki,"['hubung', 'suami', 'istri', 'intim', 'jantan', 'lelaki']",6
+155,sehat wanita,"['putih', 'stamina', 'wanita', 'hubung', 'suami', 'istri', 'intim']",7
+156,salekarang,"['flu', 'batuk', 'sakit', 'gigi', 'pusing']",5
+157,Kopi racikan madura,"['jaga', 'organ', 'hati', 'bantu', 'bersih', 'salur', 'cerna', 'bantu', 'bakar', 'lemak', 'cegah', 'sakit', 'jantung', 'diabetes']",14
+158,dupa kemanten,"['harum', 'tubuh', 'baju', 'ruang', 'harum', 'lengket']",6
+159,galian singset,"['bantu', 'kurang', 'lemak', 'badan', 'langsing']",5
+160,jamu jerawat,"['bantu', 'atas', 'jerawat', 'jaga', 'kulit', 'halus', 'cahaya']",7
+161,jamu pelangsing(bobot idaman),"['turun', 'berat', 'badan', 'sesuai', 'idam', 'tahan', 'bobot', 'badan', 'gemuk', 'kontrol', 'kadar', 'lemak', 'perut']",13
+162,jamu pegel linu,"['khasiat', 'sembuh', 'pegal', 'pegal', 'linu', 'otot', 'otot', 'sembuh', 'sakit', 'rematik', 'encok', 'sakit', 'pinggang']",13
+163,jamu nifas (pluntur),"['efektif', 'wanita', 'lambat', 'atur', 'sakitsakit', 'badan']",6
+164,sehat lelaki (perkasa lelaki),"['kuat', 'fungsi', 'lelaki', 'tingkat', 'tahan', 'jantan']",6
+165,sepet madura(empot-empotan),"['denyut', 'denyut', 'istimewa', 'khas', 'kuat', 'otot', 'otot', 'wanita', 'hilang', 'bau', 'enak', 'gatal', 'gatal', 'putih']",14
+166,sehat perempuan (montok payudara),"['encang', 'payudara', 'besar', 'payudara', 'ideal', 'sehat', 'indah', 'payudara']",8
+167,sari harum(keputihan),"['mujarab', 'ampuh', 'putih', 'hilang', 'bau', 'enak', 'gatal', 'gatal']",8
+168,awet ayu,"['jaga', 'kulit', 'tubuh', 'perempuan', 'segar', 'halus', 'cahaya', 'encang', 'otot', 'otot', 'tubuh', 'singset', 'jaga', 'tubuh', 'sehat', 'segar']",16
+169,SUPER SEHAT BURUNG WALET,"['insya', 'allah', 'ampuh', 'cegah', 'sembuh', 'rematik', 'asam', 'urat', 'tekan', 'darah', 'asma', 'maag', 'ginjal', 'tipes', 'cacing', 'sakit', 'gigi', 'lemah', 'syahwat', 'gatal', 'gatal', 'alergi', 'paruparu', 'basah', 'nafsu', 'makan', 'lancar', 'sirkulasi', 'darah', 'jerawat', 'bisul', 'kudis', 'panu', 'rawat', 'ms', 'v', 'atas', 'putih', 'rawat', 'encang', 'kulit', 'cegah', 'atas', 'sakit', 'tahun', 'lumpuh', 'badan', 'mati', 'paruh', 'stroke', 'kanker', 'liver', 'kencing', 'manis', 'basah', 'kencing', 'manis', 'kering', 'jaga', 'tambah', 'daya', 'tahan', 'tubuh']",63
+170,SUPER KUAT BURUNG WALET,"['insyaallah', 'ampuh', 'tambah', 'puas', 'sex', 'tahan', 'keluar', 'air', 'sperma', 'tambah', 'jantan', 'encang', 'otot', 'zakar', 'kuat', 'obat', 'impoten', 'tahun', 'rangsang', 'cepat', 'hidup', 'dzakar', 'tambah', 'energi', 'hubung', 'ganti', 'selsel', 'tubuh', 'aus', 'obat', 'lesu', 'loyo', 'sakit', 'pinggang', 'sakit', 'kepala', 'tambah', 'daya', 'tahan', 'tubuh', 'tambah', 'vitalitas', 'pria', 'wanita']",44
+171,KOPI JANTAN ANTI DIABETES,"['insya', 'allah', 'ampuh', 'atas', 'sakit', 'diabetes', 'lemah', 'syahwat', 'ejakulasi', 'tingkat', 'libido', 'tambah', 'stamina', 'vitalitas', 'tingkat', 'daya', 'tahan', 'tubuh', 'pria', 'wanita']",20
+172,MADU Ruqyah,"['insya', 'allah', 'tingkat', 'gairah', 'sex', 'priawanita', 'sulit', 'turun', 'ganggu', 'jinpsikis', 'kena', 'sihirsantet']",12
+173,SUSU SUPER SEHAT GOLD,"['mudah', 'lesuloyoletihkurang', 'semangat', 'energik', 'rawat', 'kuat', 'otot', 'mrp', 'tambah', 'stamina', 'pria', 'wanita', 'rawat', 'encang', 'ms', 'v', 'atas', 'putih', 'lendir', 'lebih', 'msv', 'harmonis', 'suami', 'istri']",24
+174,SUBUR KANDUNGAN,"['subur', 'kandung', 'gugur']",3
+175,SABUN CAIR SIRIH,"['harum', 'keset', 'bersih', 'daerah', 'khusus', 'wanita']",6
+176,krim rondo ayu,"['khasiat', 'encang', 'payudara', 'turun', 'saran', 'minum', 'kapsul', 'montok', 'payudara', 'hasil', 'maksimal']",11
+177,harum rempah spray(perfume),"['hilang', 'bau', 'badan', 'ketiak', 'leher', 'kaki', 'rambut']",7
+178,virginity spray,"['wangi', 'vagina']",2
+179,empot-empot ayam super,"['gairah', 'hubung', 'suami', 'istri', 'serap', 'lebih', 'lendir', 'putih', 'cegah', 'hilang', 'bau', 'sedap', 'wanita', 'hilang', 'bau', 'badan', 'encang', 'otot', 'wanita', 'lahir', 'kembali', 'gadis', 'perawan', 'anjur', 'minum', 'haidmasa', 'nifas']",27
+180,galian rapet awet muda,"['gairah', 'hubung', 'suami', 'istri', 'serap', 'lebih', 'lendir', 'putih', 'cegah', 'hilang', 'bau', 'sedap', 'wanita', 'hilang', 'bau', 'badan', 'konsumsi', 'gadis', 'remaja', 'kembali', 'gadis', 'perawan', 'anjur', 'minum', 'haidmasa', 'nifas']",26
+181,serbuk nikmat surga,"['tambah', 'nikmat', 'tubuh', 'gairah', 'hubung', 'suami', 'istri', 'serap', 'lebih', 'lendir', 'putih', 'hilang', 'bau', 'sedap', 'wanita', 'anjur', 'minum', 'haidmasa', 'nifas']",19
+182,Bedak madu,"['angkat', 'sel', 'kulit', 'mati', 'cegah', 'timbul', 'jerawat', 'hilang', 'flek', 'hitam', 'wajah', 'hilang', 'mata', 'panda', 'hilang', 'biang', 'keringat']",17
+183,Gemuk Sehat,"['tambah', 'nafsu', 'makan', 'bersih', 'jerawat', 'halus', 'kulit', 'hilang', 'bau', 'mulut', 'bau', 'badan', 'tubuh', 'padat', 'isi', 'montok', 'tambah', 'semangat', 'kerja']",19
+184,Montok Payudara,"['tubuh', 'montok', 'isi', 'langsing', 'singset', 'tubuh', 'encang', 'payudara', 'hilang', 'pegal', 'cape', 'tambah', 'semangat', 'kerja', 'ganti', 'sel', 'kulit', 'mati', 'kulit', 'halus', 'seri']",21
+185,Peluntur Lemak,"['larut', 'lemak', 'tubuh', 'kurang', 'nafsu', 'makan', 'susut', 'lemak', 'perut', 'turun', 'kolesterol', 'lancar', 'bab']",13
+186,empot-empotan,"['obat', 'putih', 'sehat', 'singset', 'badan', 'tambah', 'gairah', 'hubung', 'suamiistri', 'obat', 'gatal', 'hilang', 'bau', 'badan', 'bau', 'mulut', 'cocok', 'bulan', 'kuat', 'otot', 'muda']",21
+187,Kuat Semangat Helbeh Mutiara,"['atas', 'lemah', 'syahwat', 'sakit', 'pinggang', 'rematik', 'encok', 'dll', 'helbeh', 'mutiara', 'rangsang', 'otot', 'syaraf', 'lemah', 'organ', 'tubuh', 'hilang', 'jantung', 'debar', 'letih', 'lesu', 'asam', 'urat', 'hilang', 'nyeri', 'tulang', 'darah']",27
+188,jamu kuat Helbeh Mutiara,"['hilang', 'letih', 'tambah', 'tenaga', 'energi', 'obat', 'lemah', 'syahwat', 'obat', 'jantung', 'debar', 'hilang', 'sakit', 'pinggang', 'hilang', 'rematikencok', 'kurang', 'asam', 'urat', 'hancur', 'batu', 'ginjal']",22
+189,jamu kuat pria dewasa semalam di madura,"['tingkat', 'stamina', 'daya', 'tubuh', 'pria', 'hubung', 'intim']",7
+190,jamu helbeh semangat ramuan herbal madura,"['kuat', 'badan', 'cerdas', 'otak', 'cegah', 'rematik', 'tambah', 'semangat', 'sembuh', 'batuk', 'asma', 'sembuh', 'sakit', 'pinggang']",14
+191,jamu sariwangi ramuan madura,"['bantu', 'hilang', 'bau', 'mulut', 'bau', 'badan', 'pria', 'wanita', 'produk', 'sari', 'wangi', 'jamu', 'herbal', 'bantu', 'hilang', 'bau', 'mulut', 'bau', 'badan', 'keringat', 'bau', 'tubuh', 'manusia', 'bau', 'mulut', 'sumber', 'perut', 'cerna']",28
+192,Serimpang,"['sehat', 'tubuh', 'badan', 'fresh']",4
+193,Lancar darah,"['lancar', 'keluar', 'darah', 'cegah', 'kurang', 'sakit', 'perut', 'sakit', 'pinggang', 'pusing', 'nyeri', 'timbul']",12
+194,jamu tradisional madura kecantikan,"['jaga', 'badan', 'sehat', 'segar', 'awet', 'muda', 'cegah', 'timbul', 'jerawat', 'langsing', 'tubuh', 'encang', 'tubuh', 'kurang', 'bau', 'badan']",16
+195,jamu gendong klasik madura(JKM),"['jaga', 'bersih', 'miss', 'v', 'cegah', 'putih', 'hilang', 'bau', 'sedap', 'hilang', 'gatal', 'gatal', 'kurang', 'lendir', 'lebih', 'rapat', 'miss', 'v', 'empot', 'empot', 'miss', 'v', 'keset', 'harum', 'encang', 'otot', 'otot', 'miss', 'v', 'cocok', 'susu', 'lancar', 'haid', 'mendetox', 'kotor', 'rahim']",36
+196,ramuan tradisional madura,"['asma', 'rematik', 'tekan', 'darah', 'kencing', 'manis', 'kencing', 'batu', 'ginjal', 'amandel', 'tumor', 'migrain', 'liver', 'alergi', 'maag', 'maag', 'lemah', 'jantung', 'exim', 'nafsu', 'makan', 'darah', 'asam', 'urat']",24
+197,jamu sehat bugar,"['bantu', 'sembuh', 'asma', 'obat', 'rematik', 'obat', 'tekan', 'darah', 'bantu', 'sembuh', 'kencing', 'manis', 'diabetes', 'bantu', 'sembuh', 'kencing', 'batu', 'bantu', 'sembuh', 'sakit', 'ginjal', 'bantu', 'sembuh', 'amandel', 'bantu', 'menyembuhkantumor', 'bantu', 'sembuh', 'migrain', 'sakit', 'kepala', 'bantu', 'sembuh', 'liver', 'hepatitis', 'bantu', 'sembuh', 'alergi', 'bantu', 'sembuh', 'sembuh', 'maag', 'bantu', 'sembuh', 'lemah', 'jantung', 'bantu', 'obat', 'eksim', 'sakit', 'kulit', 'tambah', 'nafsu', 'makan', 'bantu', 'sembuh', 'darah', 'bantu', 'sembuh', 'lemah', 'syahwat', 'bantu', 'sembuh', 'asam', 'urat']",65
+198,galian singset (susut perut),"['kurang', 'lemak', 'tubuh']",3
+199,super empot,"['encang', 'otot', 'otot', 'wanita', 'kurang', 'lendir', 'daerah', 'wanita', 'puas', 'hubung', 'suami', 'istri', 'jaga', 'sehat', 'wanita', 'jaga', 'awet', 'muda']",18
+200,super rapet,"['bantu', 'kurang', 'lendir']",3
+201,JAMU PEGEL LINU,"['atas', 'gatal', 'gatal', 'bau', 'sedap', 'wanita']",6
+202,galian rapet,"['rapat', 'mencengkram', 'hubung', 'intimhingga', 'lestari', 'hubung', 'suami', 'istri']",8
+203,jamu dalimah putih,"['awet', 'muda', 'perempuan']",3
+204,GALIAN SEHAT / MONTOK,"['pil', 'jamu', 'ramu', 'madura', 'wanita', 'pria', 'nafsu', 'makan', 'badan', 'kurus', 'muka', 'pucat', 'sakit', 'badan', 'lemah', 'lainlain', 'minum', 'jamu', 'atur', 'badan', 'sehat', 'segar', 'montok', 'padat', 'isi']",25
+205,minyak zaitun,"['encang', 'halus', 'kulit', 'muka', 'tubuh', 'kulit', 'sisik', 'pecahpecah', 'kasar', 'ganti', 'pelembab', 'minyak', 'urutpijat', 'dewasa', 'anakbayi']",15
+206,super pria,"['sembuh', 'lemah', 'syahwat', 'impotensi', 'laki', 'laki', 'tambah', 'gairah', 'pria']",9
+207,empot v,"['lancar', 'menstruasi', 'encang', 'kulitmengatasi', 'payudara', 'kendur', 'encang', 'missv', 'obat', 'kista', 'cegah', 'kanker', 'payudara', 'kuat', 'pinggang', 'bersih', 'bakteri', 'jamur', 'missv', 'putih']",20
+208,galian montok,"['encang', 'besar', 'payudara', 'jaga', 'tubuh', 'ideal', 'encang', 'halus', 'kulit', 'awet', 'muda']",11
+209,harum asmara,"['rapat', 'luntur', 'miss', 'v', 'atas', 'bau', 'sedap', 'gatal', 'gatal', 'organ', 'intim', 'atas', 'cair', 'harum', 'area', 'vagina', 'sembuh', 'putih']",18
+210,Jamu sehat wanita,"['tambah', 'stamina', 'jaga', 'sehat', 'tubuh', 'khusus', 'wanita']",7
+211,galian singset,"['kurang', 'lebih', 'lemak', 'perut', 'paha', 'kaki', 'kecil', 'perut', 'jaga', 'bentuk', 'tubuh', 'ideal', 'tingkat', 'hormon', 'tubuh', 'wanita', 'cerah', 'segar', 'kulit', 'encang', 'kulit', 'jaga', 'tampil', 'awet', 'muda', 'hilang', 'aroma', 'badan', 'sedap', 'tubuh', 'harum', 'wangi', 'tampil', 'seksi', 'percaya']",35
+212,penyubur ,"['kuat', 'rahim', 'tambah', 'hormon', 'subur', 'kandung']",6
+213,bersalin kapsul,"['cepat', 'sembuh', 'luka', 'lahir', 'bersih', 'rahim', 'kurang', 'bau', 'sedap', 'pulih', 'stamina', 'vitalitaskulit', 'kendur', 'singsetorgan', 'wanita', 'rapet', 'keset']",17
+214,bersalin bubuk,"['tuntas', 'darah', 'kotor', 'sehat', 'dn', 'bayi', 'lahir', 'lancar', 'asi']",9
+215,jamu paket penganten,"['harum', 'bau', 'badan', 'kurang', 'keringat', 'sembuh', 'putih', 'encang', 'otot', 'wanita']",10
+216,lulur susu,"['bantu', 'mutih', 'halus', 'bersih', 'harum', 'kulit', 'tubuh', 'alami']",8
+217,vitmil,"['bantu', 'pelihara', 'sehat', 'wanita', 'bantu', 'segar', 'badan']",7
+218,Jamu singset,"['bikin', 'singset', 'rapat', 'langsing', 'sehat', 'badan']",6
+219,Parem Bangkes,"['kembali', 'kulit', 'kendur', 'wanita', 'hangat', 'cantik', 'wanita']",7
+220,Jamu Pejja,"['lancar', 'produksi', 'asi', 'kembali', 'organ', 'reproduksi', 'hamil', 'sehat', 'bayi', 'lahir', 'awet', 'muda']",12
+221,Ganita-V (Rukun Wanita),"['bantu', 'kurang', 'lendir', 'daerah', 'wanita', 'alami', 'gagal', 'hubung', 'putih', 'lelah', 'stress', 'hilang', 'bau', 'enak', 'encang', 'otot', 'wanita', 'sembuh', 'putih']",19
+222,Lancar Bulan (Nifas/Pluntur),"['bantu', 'lancar', 'nyeri', 'haid', 'reda', 'nyeri', 'haid']",7
+223,Sepet Wangi (Sari Wangi),"['bantu', 'kurang', 'lendir', 'lebih', 'area', 'wanita', 'hilang', 'bau', 'badan', 'timbul', 'keringat', 'hilang', 'bau', 'mulut', 'subur', 'tumbuh', 'kulit']",17
+224,GL- Rapet Madura ( Galian Rapet),"['atas', 'bau', 'badan', 'bantu', 'kurang', 'putih', 'hilang', 'lendir', 'bau', 'enak', 'area', 'wanita', 'rapat', 'kecil', 'vagina', 'tambah', 'gairah', 'sex']",18
+225,Bengkes (Empot - Empot),"['bantu', 'segar', 'badan', 'bantu', 'kurang', 'lendir', 'lebih', 'area', 'wanita']",9
+226,Wangibungai (Keputihan),"['bantu', 'kurang', 'lendir', 'daerah', 'wanita']",5
+227,Sehat Lelaqi,"['bantu', 'sehat', 'badan', 'reda', 'pegal', 'linu', 'nyeri', 'otot', 'pinggang', 'lancar', 'edar', 'darah']",12
+228,Timung Penganten,"['segar', 'harum', 'tubuh', 'wanita']",4
+229,Sabun Sari Rapet,"['jaga', 'bersih', 'vagina']",3
+230,Majasmara,"['encang', 'wajah', 'kulit', 'encang', 'payudara', 'encang', 'otot', 'otot', 'wanita', 'lancar', 'haid']",11
+231,Minyak Jinten Hitam,"['tingkat', 'kebal', 'tubuh', 'sakit', 'obat', 'rematik', 'obat', 'asma']",8
+232,Minyak Zaitun,"['reda', 'batuk', 'kuat', 'stamina', 'cegah', 'kanker', 'obat', 'kencing', 'manis', 'cegah', 'ganggu', 'cerna', 'obat', 'cacing', 'perut']",15
+233,Propolis,"['tingkat', 'kebal', 'tubuh', 'lancar', 'edar', 'darah', 'tambah', 'sistem', 'hormon', 'subur', 'wanita']",11
+234,Lulur Hitam Tradisional,"['cerah', 'kulit', 'wanita', 'halus', 'kulit', 'hilang', 'flek', 'hitam', 'wajah', 'hilang', 'stretch', 'mark']",12
+235,Empot Ayam Madura Super,"['bantu', 'kuat', 'otot', 'vagina', 'denyut', 'nikmat', 'istimewa', 'vagina', 'bantu', 'keras', 'otot', 'vagina', 'longgar', 'bantu', 'kurang', 'putih', 'gatal', 'gatal', 'alat', 'kelamin', 'wanita']",21
+236,Tongkat Asli madura Premium Rose,"['angkat', 'lendir', 'kotor', 'miss', 'v', 'jadi', 'miss', 'v', 'rapat', 'kencang', 'bersih', 'atas', 'putih', 'kuat', 'otot', 'otot', 'wanita', 'hilang', 'gatal', 'gatal', 'akibat', 'jamur', 'muas', 'pasang']",24
+237,Bikin Gemuk,"['tambah', 'berat', 'badan']",3
+238,Spray Virgin (Madura asmara spray),"['rapat', 'harum', 'miss', 'v', 'perawan', 'bantu', 'kurang', 'lendir', 'lebih', 'bau', 'sedap']",11
+239,Dupa (Ratus),"['campur', 'mandi', 'rempah', 'gurah', 'vagina']",5
+240,Sehat lelaki,"['jaga', 'tubuh', 'mudah', 'lelah', 'lancar', 'edar', 'darah', 'lancar', 'harmonis', 'hubung']",10
+241,Jamu Galian Parem (Parem Tabuk),"['jamu', 'minum', 'lahir', 'tuntas', 'keluar', 'darah', 'nifas', 'hilang', 'letih', 'lesu', 'pegal', 'pegal', 'lahir']",13
+242,Black Garlic (Bawang Hitam Tunggal),"['jaga', 'sehat', 'jantung', 'baik', 'metabolisme', 'tubuh', 'tingkat', 'imunitas', 'tubuh', 'kurang', 'resiko', 'kanker', 'antioksidan', 'turun', 'kadar', 'kolesterol', 'kontrol', 'gula', 'cegah', 'tua', 'lindung', 'infeksi']",22
+243,Jamu Jakula,"['tambah', 'jantan', 'kuat', 'sex', 'cepat', 'ereksi', 'lemah', 'syahwat', 'obat', 'ejakulasi', 'tambah', 'frekuensi', 'hubung', 'intim', 'tahan']",15
+244,Sehat Laki-Laki (Perkasa),"['stamina', 'hubung', 'lakilaki', 'tambah', 'hormon', 'kental', 'sperma', 'cegah', 'ejakulasi']",9
+245,Helbeh Mutiara (Jamu Kuat),"['tambah', 'stamina', 'pria', 'hubung', 'atas', 'ejakulasi', 'gairah', 'tubuh', 'hubung', 'membengkitkan', 'napsu', 'hubung']",12
+246,Jamu tradisional madura sehat,"['jamu', 'minum', 'lahir', 'tuntas', 'keluar', 'darah', 'nifas', 'hilang', 'letih', 'lesu', 'pegal', 'pegal', 'lahir']",13
+247,Ramuan Ummi Jafir,"['segar', 'badan', 'lancar', 'cerna', 'kuat', 'imun', 'hangat', 'badan']",8
+248,Jamu Sakera,"['turun', 'gula', 'darah', 'kolesterol', 'trigliserida', 'kendali', 'hipertensi', 'tingkat', 'sehat', 'jantung', 'tingkat', 'sehat', 'ginjal', 'turun', 'asam', 'urat', 'cegah', 'kanker', 'tingkat', 'imun']",20
+249,Lanange Jagad,"['baik', 'ejakulasi', 'kuat', 'tahan', 'berharihari']",5
+250,Kuncup wangi,"['anti', 'putih', 'lendir', 'anti', 'bau', 'sedap', 'badan', 'miss', 'v', 'rapat', 'otot', 'miss', 'v', 'antiseptik', 'anti', 'bakteri', 'hilang', 'gatal', 'miss', 'v']",20
+251,Sakera Ramuan Pria Dasyat,"['tingkat', 'gairah', 'sex', 'baik', 'ejakulasi', 'kuat', 'tahan', 'berharihari']",8
+252,Jamu Wiraraja,"['tingkat', 'segar', 'badan', 'pulih', 'stamina', 'lancar', 'edar', 'darah']",8
+253,Manjavikan,"['atas', 'putih', 'lancar', 'haid', 'atas', 'nyeri', 'haid', 'lancar', 'asi', 'bantu', 'promil', 'rapat', 'miss', 'v']",14
+254,Rukun Wanita (Sorga),"['alami', 'gelap', 'hubung', 'suami', 'istri', 'hilang', 'bau', 'sedap', 'miss', 'v', 'encang', 'otot', 'wanita']",13
+255,Madu Asmara Spray (Kecil),"['hilang', 'putih', 'rapat', 'miss', 'v', 'miss', 'v', 'harum', 'goda', 'pasang', 'pasutri']",11
+256,Bubuk Madu Asmara,"['pasang', 'suami', 'istri', 'miss', 'v', 'keset', 'rapet', 'suami', 'tahan']",9
+257,Jantala (Tahan Lama),"['tahan', 'hubung', 'suami', 'istri', 'tingkat', 'stamina', 'suami']",7
+258,Harumita,"['encang', 'otot', 'otot', 'wanita', 'kurang', 'lendir', 'daerah', 'wanita', 'puas', 'hubung', 'suami', 'istri', 'jaga', 'sehat', 'wanita', 'jaga', 'awet', 'muda']",18
+259,sari rapet,"['tambah', 'nikmat', 'hubung', 'suami', 'istri', 'bahagia', 'suami', 'istri', 'hilang', 'gatal', 'bau', 'miss', 'v']",13
+260,Bubuk Asmara,"['tahan', 'cinta', 'suami', 'istri']",4
+261,Jamu Ratu Madura,"['vagina', 'rapet', 'perawan', 'hilang', 'becek', 'tambah', 'gairah', 'seksual', 'jepit', 'hubung']",10
+262,Jamu Wasir,"['obat', 'sakit', 'wasir', 'ambeien', 'ambeien', 'akibat', 'sembuh', 'total']",8
+263,Jamu Super Pengental Sperma,"['tingkat', 'kualitas', 'sperma', 'hubung', 'suami', 'istri', 'jadi', 'ereksi', 'kuat', 'sperma', 'deras']",11
+264,Jamu Super Rasa Kopi,"['asma', 'asam', 'urat', 'maag', 'amandel', 'kencing', 'manis', 'eksim', 'darah']",9
+265,Jamu Khusus Penganten,"['harum', 'segar', 'badan', 'hilang', 'lesu', 'kuat', 'muka', 'pucat', 'tambah', 'gairah', 'pengantin']",11
+266,Jamu Asam Urat,"['sembuh', 'nyeri', 'sendi', 'bengkak', 'merah', 'panas', 'sebab', 'lebih', 'asam', 'urat', 'badan', 'letih', 'lesu', 'lemah']",14
+267,Sehat Pria /Perkasa (Tambah Syahwat),"['sembuh', 'lemah', 'syahwat', 'impotensi', 'laki', 'laki', 'tambah', 'gairah', 'pria', 'hubung', 'suami', 'istri']",12
+268,Godokan Rapet Wangi,"['puas', 'hubung', 'suami', 'istri', 'kesat', 'ana', 'awat', 'jamu', 'pengantin']",9
+269,Jamu Kuat Apatheng,"['tingkat', 'gairah', 'sex', 'tambah', 'daya', 'tahan', 'pria', 'lancar', 'edar', 'darah', 'area', 'pria', 'sehat', 'kuat', 'cegah', 'sakit', 'kelamin', 'atas', 'sakit', 'pinggang', 'pegal', 'linu']",22
+270,Jamu Gingseng  Lanange,"['pasang', 'suami', 'istri', 'baik', 'ejakulasi', 'kuat', 'tahan', 'hari']",8
+271,Kapsul MM,"['bangkit', 'gairah', 'libido', 'lakilaki', 'obat', 'impotensi', 'encang', 'ereksi', 'tahan', 'ulang', 'ulang']",11
+272,Kapsul Herbal ,"['pria', 'perkasa', 'kuat', 'tahan', 'aman', 'efek', 'samping', 'tempur', 'subuh']",9
+273,Jamu melak medem,"['sembuh', 'putih', 'rapat', 'miss', 'v', 'nikmat', 'hubung', 'suami', 'istri', 'encang', 'intim', 'hubung']",12
+274, Serbuk kuat & Tahan Lama suramadu,"['tambah', 'stamina', 'daya', 'tahan', 'sex', 'cegah', 'ejakulasi']",7
+275,teh jaku,"['nafsu', 'makan', 'jaga', 'kesehaan', 'lambung', 'liver']",6
+276,jahe merah +,"['menjegah', 'rematik', 'asam', 'urta', 'kolesterol']",5
+277,pinang mudah+,"['kuat', 'gusi']",2
+278,abatusauda,"['jenis', 'sakit']",2
+279,minyak komanding saebu,"['reda', 'nyeri', 'dian', 'minyak', 'urut']",5
+280,jamu kolestrol,"['reda', 'kolestrol', 'asam', 'urat', 'kadar', 'gula']",6
+281,jamu mata,"['reda', 'syaraf', 'mataa']",3
+282,jamu kanker payudara,"['obat', 'kanker', 'payudara']",3
