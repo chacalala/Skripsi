@@ -1,0 +1,68 @@
+/* ===== RESULT CARD ===== */
+.result-card{
+    background: #e3e3e6 !important;
+    padding: 18px;
+    margin-bottom: 15px;
+    border-radius: 16px;
+    border-left: 5px solid #6c757d;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+/* ===== NAMA JAMU ===== */
+.jamu-name{
+    font-size: 21px;
+    font-weight: 700;
+    color: #000000 !important;
+    margin-bottom: 10px;
+}
+
+/* ===== KHASIAT ===== */
+.khasiat{
+    font-size: 15px;
+    color: #000000 !important;
+    line-height: 1.6;
+    margin-bottom: 8px;
+}
+
+/* ===== SCORE ===== */
+.score{
+    font-size: 14px;
+    color: #000000 !important;
+    font-weight: 600;
+}
+
+/* ===== INPUT ===== */
+.stTextArea textarea{
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+/* ===== BUTTON ===== */
+.stButton button{
+    width: 100%;
+    border-radius: 20px;
+    background: #cecece !important;
+    color: #211e1e !important;
+    font-weight: bold;
+    border: 1px solid #4b5563;
+    transition: 0.3s;
+}
+
+/* ===== BUTTON HOVER ===== */
+.stButton button:hover{
+    background: #4b5563 !important;
+    border-color: #6b7280;
+}
+
+/* ===== EMPTY STATE ===== */
+.empty-card{
+    background: #374151 !important;
+    padding: 15px;
+    margin-bottom: 12px;
+    border-radius: 15px;
+    border-left: 5px solid #9ca3af;
+    text-align: center;
+    color: #d1ecf3 !important;
+    font-weight: bold;
+}
